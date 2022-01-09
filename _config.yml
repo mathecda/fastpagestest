@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: fastpagestest
+description: A test of fastpages - An easy to use blogging platform with support for Jupyter Notebooks.
 github_username: mathecda
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "fastpagestest"
